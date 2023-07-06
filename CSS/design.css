@@ -1,0 +1,52 @@
+/* styles.css */
+
+/* Styling for the header */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+body {
+  background-color: #f2f2f2; /* Replace with your desired background color */
+}
+
+/* Styling for the heading */
+h1 {
+  font-size: 28px;
+}
+
+/* Styling for the card */
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the card image */
+.card img {
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+/* Styling for the card body */
+.card-body {
+  padding: 20px;
+}
+
+/* Styling for the card text */
+.card-text {
+  color: #555;
+}
+
+/* Styling for the footer */
+footer {
+  background-color: #f9f9f9;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #888;
+}
